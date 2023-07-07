@@ -37,3 +37,4 @@ localhost:8880 にてモックサーバー起動
 <img width="500" alt="アーキテクチャー図" src="https://github.com/watanabekanako/front-household/assets/109854906/d805526e-d02a-4956-bc24-22cb13c99636"><br>
 <img width="500" alt="アーキテクチャー図" src="https://github.com/watanabekanako/front-household/assets/109854906/f3657b43-4b03-4959-a288-1e8d0a9baf24"><br>
 
+# drink-app
